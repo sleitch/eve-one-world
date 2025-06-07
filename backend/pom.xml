@@ -1,12 +1,12 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.eve.spring</groupId>
-    <artifactId>userone</artifactId>
+    <groupId>com.eve</groupId>
+    <artifactId>oneworld</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>backend</name>
-    <description>Backend for Spring Boot React App</description>
+    <description>Eve One World - Model your world</description>
 
     <properties>
         <java.version>17</java.version>

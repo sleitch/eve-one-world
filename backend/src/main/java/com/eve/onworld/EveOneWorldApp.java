@@ -1,13 +1,13 @@
-package com.eve.spring.userone;
+package com.eve.onworld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UserOneApp {
+public class EveOneWorldApp {
 
     public static void main(String[] args) {
-        SpringApplication.run(UserOneApp.class, args);
+        SpringApplication.run(EveOneWorldApp.class, args);
     }
 
 }
